@@ -1,0 +1,6 @@
+[submodule "tilfeldig"]
+	path = tilfeldig
+	url = https://github.com/neppe/tilfeldig
+[submodule "random"]
+	path = random
+	url = https://github.com/neppe/random
