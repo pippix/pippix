@@ -4,3 +4,6 @@
 [submodule "random"]
 	path = random
 	url = https://github.com/neppe/random
+[submodule "neppe"]
+	path = neppe
+	url = https://github.com/neppe/neppe
